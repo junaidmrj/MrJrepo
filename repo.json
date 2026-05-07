@@ -2,5 +2,9 @@
   "name": "MrJrepo",
   "author": "junaidmrj",
   "description": "My personal Cloudstream plugins",
-  "pluginLists": []
+  "pluginLists": [
+    {
+      "url": "https://raw.githubusercontent.com/recloudstream/en-plugins/master/plugins.json"
+    }
+  ]
 }
