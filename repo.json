@@ -1,10 +1,12 @@
 {
   "name": "MrJrepo",
   "author": "junaidmrj",
-  "description": "Plugins",
+  "description": "CloudStream Plugins",
+  "repositoryUrl": "https://github.com/junaidmrj/MrJrepo",
+  "version": 1,
   "pluginLists": [
     {
-      "url": "https://raw.githubusercontent.com/recloudstream/en-plugins/master/plugins.json"
+      "url": "https://raw.githubusercontent.com/junaidmrj/MrJrepo/main/plugins.json"
     }
   ]
 }
