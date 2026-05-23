@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    {
+      "name": "Example Plugin",
+      "description": "My first CloudStream plugin",
+      "version": "1.0.0",
+      "author": "junaidmrj",
+      "url": "https://raw.githubusercontent.com/junaidmrj/MrJrepo/main/plugins/ExamplePlugin/plugin.json"
+    }
+  ]
+}
