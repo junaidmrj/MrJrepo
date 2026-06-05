@@ -1,0 +1,11 @@
+{
+  "name": "Movies Provider",
+  "author": "junaidmrj",
+  "version": "1.0.0",
+  "description": "Watch Movies Online",
+  "iconUrl": "",
+  "repositoryUrl": "https://github.com/junaidmrj/MrJrepo",
+  "requirements": [],
+  "hasSettings": false,
+  "status": "working"
+}
